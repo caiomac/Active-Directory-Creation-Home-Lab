@@ -1,7 +1,7 @@
 <h1>Active Directory Creation</h1>
 
 <h2>Description</h2>
-This project sets up a virtual environment using Oracle VM VirtualBox with Windows 10 and Windows Server. Network configurations enable communication via IP addresses and NAT Networks.. Windows machine joins an Active Directory domain with Remote Desktop enabled. PowerShell scripting automates the task for account creation.
+This project sets up a virtual environment using Oracle VM VirtualBox with Windows 10 and Windows Server. Network configurations enable communication via IP addresses and NAT Networks. Windows machine joins an Active Directory domain with Remote Desktop enabled. PowerShell scripting automates the task for account creation.
 <br/>
 <br/>
 <i>Estimated completion time: 2-3 hours</i>
@@ -209,10 +209,9 @@ It was opened PowerShell ISE as admin and set execution policy to unrestricted t
 </div>
 <br />
 In the next pictures we see the before and after the script was ran:
-<br />
 <br/> 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/44eb165a-b626-4606-b8d0-4f7f0aaa31ed" width="700">
+  <img src="https://github.com/user-attachments/assets/1b06fbd7-c5bc-44b9-a395-fb8cafed75f9" width="700">
 </div>
 <br />
 <h3>Step 4 - Starting the client computer in the domain</h3>
